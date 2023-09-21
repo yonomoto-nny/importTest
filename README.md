@@ -1,2 +1,3 @@
 # importTest
 リポジトリのインポートテスト
+GitHubからBitbucketへ
